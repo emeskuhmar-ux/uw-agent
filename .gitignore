@@ -1,0 +1,11 @@
+.env
+venv/
+__pycache__/
+*.pyc
+corpus/*.pdf
+corpus/*.md
+storage/
+logs/*.log
+.DS_Store
+*.egg-info/
+.streamlit/

@@ -1,0 +1,74 @@
+[
+  {
+    "source_id": "openalex:W2139657187",
+    "source_type": "openalex",
+    "title": "Ocean Research Enabled by Underwater Gliders",
+    "authors": "Daniel L. Rudnick",
+    "year": 2015,
+    "url": "https://doi.org/10.1146/annurev-marine-122414-033913",
+    "pdf_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-marine-122414-033913",
+    "abstract_len": 953,
+    "venue": "Annual Review of Marine Science",
+    "n_chunks": 1
+  },
+  {
+    "source_id": "openalex:W2140692534",
+    "source_type": "openalex",
+    "title": "Underwater Glider System Study",
+    "authors": "Scott A. Jenkins, D.E. Humphreys, Jeff Sherman, Jim Osse, Clayton Jones",
+    "year": 2003,
+    "url": "https://openalex.org/W2140692534",
+    "pdf_url": "https://escholarship.org/uc/item/1c28t6bb",
+    "abstract_len": 1081,
+    "venue": "eScholarship (California Digital Library)",
+    "n_chunks": 1
+  },
+  {
+    "source_id": "openalex:W2133597317",
+    "source_type": "openalex",
+    "title": "Determining Vertical Water Velocities from Seaglider",
+    "authors": "Eleanor Frajka\u2010Williams, Charles C. Eriksen, Peter B. Rhines, Ramsey R. Harcourt",
+    "year": 2011,
+    "url": "https://doi.org/10.1175/2011jtecho830.1",
+    "pdf_url": "https://journals.ametsoc.org/downloadpdf/journals/atot/28/12/2011jtecho830_1.pdf",
+    "abstract_len": 1026,
+    "venue": "Journal of Atmospheric and Oceanic Technology",
+    "n_chunks": 1
+  },
+  {
+    "source_id": "openalex:W2122027004",
+    "source_type": "openalex",
+    "title": "Vertical Water Velocities from Underwater Gliders",
+    "authors": "Lucas Merckelbach, David Smeed, G. Griffiths",
+    "year": 2009,
+    "url": "https://doi.org/10.1175/2009jtecho710.1",
+    "pdf_url": "https://journals.ametsoc.org/downloadpdf/journals/atot/27/3/2009jtecho710_1.pdf",
+    "abstract_len": 1603,
+    "venue": "Journal of Atmospheric and Oceanic Technology",
+    "n_chunks": 1
+  },
+  {
+    "source_id": "doi:10.54097/d1b0pg47",
+    "source_type": "crossref",
+    "title": "Aerodynamic Characterization of Glider Lift-to-drag Ratio and its Wing Shape",
+    "authors": "Yunhao Liang",
+    "year": 2024,
+    "url": "https://doi.org/10.54097/d1b0pg47",
+    "pdf_url": null,
+    "abstract_len": 1226,
+    "venue": "Highlights in Science, Engineering and Technology",
+    "n_chunks": 1
+  },
+  {
+    "source_id": "doi:10.1017/s0001924000027299",
+    "source_type": "crossref",
+    "title": "A method for determining the lift-to-drag\n                                                ratio of a propelled hang-glider",
+    "authors": "J. Wolf",
+    "year": 1996,
+    "url": "https://doi.org/10.1017/s0001924000027299",
+    "pdf_url": null,
+    "abstract_len": 1396,
+    "venue": "The Aeronautical Journal",
+    "n_chunks": 1
+  }
+]
